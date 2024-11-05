@@ -28,7 +28,7 @@ SECRET_KEY = "django-insecure-(5le!1havglj8hqf-6lyxe7!of98yhdgwx@p(cqp*g*m$i&3xa
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ["https://product-management-assessment.onrender.com",'https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ["https://product-management-assessment-1.onrender.com",'https://*.127.0.0.1']
 
 
 
@@ -137,7 +137,7 @@ WSGI_APPLICATION = "product_management.wsgi.application"
 DATABASES = {
     'default': dj_database_url.config(
         # Replace this value with your local database's connection string.
-        default='postgresql://product_management_assessment_user:ZYW9lYLpSn3OQAYhtNztgQ96eEq7CBCc@dpg-crvqb0i3esus7395cdg0-a.oregon-postgres.render.com/product_management_assessment',
+        default='postgresql://product_management_assessment_1_user:JL00B4BMdti38FYgti9uKQUYNmAu7aY1@dpg-csl3pjqj1k6c73bqslk0-a.oregon-postgres.render.com/product_management_assessment_1',
 
     )
 }
