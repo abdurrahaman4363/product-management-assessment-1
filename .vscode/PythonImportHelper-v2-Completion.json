@@ -1,0 +1,999 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginSerializer",
+        "importPath": "authentications.serializers",
+        "description": "authentications.serializers",
+        "isExtraImport": true,
+        "detail": "authentications.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "importPath": "authentications.serializers",
+        "description": "authentications.serializers",
+        "isExtraImport": true,
+        "detail": "authentications.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryViewSet",
+        "importPath": "category.views",
+        "description": "category.views",
+        "isExtraImport": true,
+        "detail": "category.views",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "category.models",
+        "description": "category.models",
+        "isExtraImport": true,
+        "detail": "category.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductViewSet",
+        "importPath": "products.views",
+        "description": "products.views",
+        "isExtraImport": true,
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserRateThrottle",
+        "importPath": "rest_framework.throttling",
+        "description": "rest_framework.throttling",
+        "isExtraImport": true,
+        "detail": "rest_framework.throttling",
+        "documentation": {}
+    },
+    {
+        "label": "AnonRateThrottle",
+        "importPath": "rest_framework.throttling",
+        "description": "rest_framework.throttling",
+        "isExtraImport": true,
+        "detail": "rest_framework.throttling",
+        "documentation": {}
+    },
+    {
+        "label": "PageNumberPagination",
+        "importPath": "rest_framework.pagination",
+        "description": "rest_framework.pagination",
+        "isExtraImport": true,
+        "detail": "rest_framework.pagination",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationsConfig",
+        "kind": 6,
+        "importPath": "authentications.apps",
+        "description": "authentications.apps",
+        "peekOfCode": "class AuthenticationsConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"authentications\"",
+        "detail": "authentications.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "authentications.serializers",
+        "description": "authentications.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    password = serializers.CharField(write_only=True)\n    class Meta:\n        model = User\n        fields = ['username', 'email', 'password']\n    def save(self, **kwargs):\n        username = self.validated_data['username']\n        email = self.validated_data['email']\n        password = self.validated_data['password']\n        user = User(username=username, email=email)",
+        "detail": "authentications.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginSerializer",
+        "kind": 6,
+        "importPath": "authentications.serializers",
+        "description": "authentications.serializers",
+        "peekOfCode": "class UserLoginSerializer(serializers.Serializer):\n    username = serializers.CharField()\n    password = serializers.CharField(write_only=True)\n    def validate(self, attrs):\n        user = authenticate(username=attrs['username'], password=attrs['password'])\n        if not user:\n            raise serializers.ValidationError('incorrect username or password')\n        return attrs",
+        "detail": "authentications.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "authentications.urls",
+        "description": "authentications.urls",
+        "peekOfCode": "urlpatterns = [\n    path('register/',UserRegistrationView.as_view(),name='register'),\n    path('login/', UserLoginView.as_view(), name='login'),\n    path('logout/', UserLogoutView.as_view(), name='logout'),\n]",
+        "detail": "authentications.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationView",
+        "kind": 6,
+        "importPath": "authentications.views",
+        "description": "authentications.views",
+        "peekOfCode": "class UserRegistrationView(APIView):\n    serializer_class = UserSerializer\n    def post(self, request):\n        serializer = self.serializer_class(data=request.data)\n        if serializer.is_valid():\n            user = serializer.save()\n            refresh = RefreshToken.for_user(user)\n            return Response({\n                'message': 'User created successfully!',\n                'user': {",
+        "detail": "authentications.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "kind": 6,
+        "importPath": "authentications.views",
+        "description": "authentications.views",
+        "peekOfCode": "class UserLoginView(APIView):\n    def post(self, request):\n        serializer = UserLoginSerializer(data=request.data)\n        if serializer.is_valid():\n            username = serializer.validated_data['username']\n            password = serializer.validated_data['password']\n            user = authenticate(username=username, password=password)\n            if user is not None:\n                refresh = RefreshToken.for_user(user)\n                login(request,user)",
+        "detail": "authentications.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogoutView",
+        "kind": 6,
+        "importPath": "authentications.views",
+        "description": "authentications.views",
+        "peekOfCode": "class UserLogoutView(APIView):\n    permission_classes = [IsAuthenticated] \n    def post(self, request):\n        refresh_token = request.data.get('refresh')\n        if refresh_token is None:\n            return Response({\"detail\": \"Refresh token required.\"}, status=status.HTTP_400_BAD_REQUEST)\n        try:\n            token = RefreshToken(refresh_token)\n            token.blacklist()\n            logout(request)",
+        "detail": "authentications.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "category.migrations.0001_initial",
+        "description": "category.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"Category\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
+        "detail": "category.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryConfig",
+        "kind": 6,
+        "importPath": "category.apps",
+        "description": "category.apps",
+        "peekOfCode": "class CategoryConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"category\"",
+        "detail": "category.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "category.models",
+        "description": "category.models",
+        "peekOfCode": "class Category(models.Model):\n    name = models.CharField(max_length=50)\n    def __str__(self):\n        return self.name",
+        "detail": "category.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategorySerializer",
+        "kind": 6,
+        "importPath": "category.serializers",
+        "description": "category.serializers",
+        "peekOfCode": "class CategorySerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Category\n        fields = '__all__'",
+        "detail": "category.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "category.urls",
+        "description": "category.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('category', CategoryViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "category.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "category.urls",
+        "description": "category.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "category.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryViewSet",
+        "kind": 6,
+        "importPath": "category.views",
+        "description": "category.views",
+        "peekOfCode": "class CategoryViewSet(viewsets.ModelViewSet):\n    permission_classes=[IsAuthenticatedOrReadOnly]\n    queryset = Category.objects.all()\n    serializer_class = CategorySerializer",
+        "detail": "category.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0001_initial",
+        "description": "products.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        (\"category\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Product\",\n            fields=[\n                (",
+        "detail": "products.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0002_alter_product_image",
+        "description": "products.migrations.0002_alter_product_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"products\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"product\",\n            name=\"image\",\n            field=models.ImageField(upload_to=\"products/product_images/\"),\n        ),",
+        "detail": "products.migrations.0002_alter_product_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0003_alter_product_name_alter_product_price",
+        "description": "products.migrations.0003_alter_product_name_alter_product_price",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"products\", \"0002_alter_product_image\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"product\",\n            name=\"name\",\n            field=models.CharField(db_index=True, max_length=100),\n        ),",
+        "detail": "products.migrations.0003_alter_product_name_alter_product_price",
+        "documentation": {}
+    },
+    {
+        "label": "ProductsConfig",
+        "kind": 6,
+        "importPath": "products.apps",
+        "description": "products.apps",
+        "peekOfCode": "class ProductsConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"products\"",
+        "detail": "products.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "products.models",
+        "description": "products.models",
+        "peekOfCode": "class Product(models.Model):\n    name = models.CharField(max_length=100, db_index=True)  \n    description = models.TextField()\n    price = models.DecimalField(max_digits=10, decimal_places=2, db_index=True) \n    image = models.ImageField(upload_to='products/product_images/')\n    category = models.ForeignKey(Category, related_name='products', on_delete=models.CASCADE, db_index=True)  # Adding index on category\n    def __str__(self):\n        return self.name",
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSerializer",
+        "kind": 6,
+        "importPath": "products.serializers",
+        "description": "products.serializers",
+        "peekOfCode": "class ProductSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Product\n        fields = '__all__'",
+        "detail": "products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "products.urls",
+        "description": "products.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('products', ProductViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "products.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "products.urls",
+        "description": "products.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "products.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ProductPagination",
+        "kind": 6,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "class ProductPagination(PageNumberPagination):\n    page_size = 1\n    page_size_query_param = page_size\n    max_page_size = 100\nclass ProductViewSet(viewsets.ModelViewSet):\n    # permission_classes=[IsAuthenticatedOrReadOnly]\n    queryset = Product.objects.all()\n    serializer_class = ProductSerializer\n    pagination_class = ProductPagination\n    throttle_classes = [UserRateThrottle, AnonRateThrottle]",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProductViewSet",
+        "kind": 6,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "class ProductViewSet(viewsets.ModelViewSet):\n    # permission_classes=[IsAuthenticatedOrReadOnly]\n    queryset = Product.objects.all()\n    serializer_class = ProductSerializer\n    pagination_class = ProductPagination\n    throttle_classes = [UserRateThrottle, AnonRateThrottle]",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "product_management.asgi",
+        "description": "product_management.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "product_management.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-(5le!1havglj8hqf-6lyxe7!of98yhdgwx@p(cqp*g*m$i&3xa\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\nCSRF_TRUSTED_ORIGINS = [\"https://product-management-assessment.onrender.com\",'https://*.127.0.0.1']\n# Application definition",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-(5le!1havglj8hqf-6lyxe7!of98yhdgwx@p(cqp*g*m$i&3xa\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\nCSRF_TRUSTED_ORIGINS = [\"https://product-management-assessment.onrender.com\",'https://*.127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = [\"*\"]\nCSRF_TRUSTED_ORIGINS = [\"https://product-management-assessment.onrender.com\",'https://*.127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "ALLOWED_HOSTS = [\"*\"]\nCSRF_TRUSTED_ORIGINS = [\"https://product-management-assessment.onrender.com\",'https://*.127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CSRF_TRUSTED_ORIGINS",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "CSRF_TRUSTED_ORIGINS = [\"https://product-management-assessment.onrender.com\",'https://*.127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"category\",",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"category\",\n    \"products\",\n    'rest_framework',",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 10, \n        'DEFAULT_THROTTLE_CLASSES': [\n        'rest_framework.throttling.UserRateThrottle',\n        'rest_framework.throttling.AnonRateThrottle',\n    ],",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': True,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'ALGORITHM': 'HS256',\n    'SIGNING_KEY': SECRET_KEY,\n    'AUTH_HEADER_TYPES': ('Bearer',),\n    'AUTH_TOKEN_CLASSES': ('rest_framework_simplejwt.tokens.AccessToken',),\n    'TOKEN_TYPE_CLAIM': 'token_type',",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"product_management.urls\"",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "ROOT_URLCONF = \"product_management.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"product_management.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\n# DATABASES = {\n#     \"default\": {\n#         \"ENGINE\": \"django.db.backends.sqlite3\",\n#         \"NAME\": BASE_DIR / \"db.sqlite3\",\n#     }\n# }\n# DATABASES = {",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "DATABASES = {\n    'default': dj_database_url.config(\n        # Replace this value with your local database's connection string.\n        default='postgresql://product_management_assessment_user:ZYW9lYLpSn3OQAYhtNztgQ96eEq7CBCc@dpg-crvqb0i3esus7395cdg0-a.oregon-postgres.render.com/product_management_assessment',\n    )\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "product_management.settings",
+        "description": "product_management.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "product_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "product_management.urls",
+        "description": "product_management.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path('',include('authentications.urls')),\n    path('',include('category.urls')),\n    path('',include('products.urls')),\n]\nurlpatterns += static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)",
+        "detail": "product_management.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "product_management.wsgi",
+        "description": "product_management.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "product_management.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"product_management.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
