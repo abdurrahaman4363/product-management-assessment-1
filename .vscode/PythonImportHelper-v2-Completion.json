@@ -80,6 +80,22 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -625,6 +641,15 @@
         "description": "category.migrations.0001_initial",
         "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"Category\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
         "detail": "category.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "category.migrations.0002_alter_category_name",
+        "description": "category.migrations.0002_alter_category_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"category\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"category\",\n            name=\"name\",\n            field=models.CharField(max_length=50),\n        ),",
+        "detail": "category.migrations.0002_alter_category_name",
         "documentation": {}
     },
     {
